@@ -1,5 +1,3 @@
-We do cool IFI stuff
-
 - [Peoply](https://peoply.app/orgs/progsys)
 - [Instagram](https://www.instagram.com/ifiprogsys/)
 - [Discord](https://discord.com/invite/Ng5J8xrrtu)
