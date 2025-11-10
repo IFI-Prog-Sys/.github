@@ -1,5 +1,3 @@
-![](https://progsys.no/logo.webp)
-
 We do cool IFI stuff
 
 - [Peoply](https://peoply.app/orgs/progsys)
